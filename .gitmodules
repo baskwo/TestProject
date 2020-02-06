@@ -1,0 +1,6 @@
+[submodule "TestProjectFrontend"]
+	path = TestProjectFrontend
+	url = https://github.com/baskwo/TestProjectFrontend
+[submodule "TestProjectBackend"]
+	path = TestProjectBackend
+	url = https://github.com/baskwo/TestProjectBackend
